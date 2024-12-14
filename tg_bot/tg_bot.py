@@ -1,4 +1,4 @@
-from laba4.backend.backend import Backend
+from backend.backend import Backend
 
 
 class TgBot:

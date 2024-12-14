@@ -1,5 +1,5 @@
-from laba4.data_management.data_management import DataManagement
-from laba4.translator import QuoteTranslator
+from data_management.data_management import DataManagement
+from translator import QuoteTranslator
 
 
 class Backend:
