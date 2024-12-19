@@ -1,5 +1,5 @@
 from googletrans import Translator
-from models import Quote
+from ..models import Quote
 
 
 class QuoteTranslator:

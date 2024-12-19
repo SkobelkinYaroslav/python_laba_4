@@ -1,7 +1,7 @@
 import requests
 import psycopg2
 from psycopg2 import sql
-from models import Quote
+from ..models import Quote
 
 
 class DataManagement:
