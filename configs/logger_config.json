@@ -1,0 +1,19 @@
+{
+      "version": 1,
+      "formatters": {
+          "default": {
+              "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+          }
+      },
+      "handlers": {
+          "file": {
+              "class": "logging.FileHandler",
+              "formatter": "default",
+              "filename": "logs.txt"
+          }
+      },
+      "root": {
+          "handlers": ["file"],
+          "level": "DEBUG"
+      }
+}
