@@ -1,0 +1,335 @@
+2024-12-19 22:18:23,951 - data_management.data_management - DEBUG - ������������� DataManagement
+2024-12-19 22:18:23,964 - data_management.data_management - INFO - �������� ������ � ���� ������, ���� �� ����������
+2024-12-19 22:18:23,965 - data_management.data_management - INFO - ��������� ����� �� API
+2024-12-19 22:18:24,642 - data_management.data_management - DEBUG - �������� 50 ����� �� API
+2024-12-19 22:18:24,642 - data_management.data_management - DEBUG - ���������� ������ � ��: "Take responsibility of your own happiness, never put it in other people's hands." - Roy T. Bennett
+2024-12-19 22:18:24,645 - data_management.data_management - INFO - ������ ��������� � �� � ID: 854
+2024-12-19 22:18:24,645 - backend.backend - INFO - Saved quote to database: "Take responsibility of your own happiness, never put it in other people's hands." - Roy T. Bennett
+2024-12-19 22:18:24,645 - data_management.data_management - DEBUG - ���������� ������ � ��: "Success is the progressive realization of a worthy goal or ideal." - Earl Nightingale
+2024-12-19 22:18:24,647 - data_management.data_management - INFO - ������ ��������� � �� � ID: 855
+2024-12-19 22:18:24,648 - backend.backend - INFO - Saved quote to database: "Success is the progressive realization of a worthy goal or ideal." - Earl Nightingale
+2024-12-19 22:18:24,648 - data_management.data_management - DEBUG - ���������� ������ � ��: "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." - James Matthew Barrie
+2024-12-19 22:18:24,650 - data_management.data_management - INFO - ������ ��������� � �� � ID: 856
+2024-12-19 22:18:24,650 - backend.backend - INFO - Saved quote to database: "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." - James Matthew Barrie
+2024-12-19 22:18:24,650 - data_management.data_management - DEBUG - ���������� ������ � ��: "It is not as important how we start, but how we finish." - Joyce Meyer
+2024-12-19 22:18:24,652 - data_management.data_management - INFO - ������ ��������� � �� � ID: 857
+2024-12-19 22:18:24,652 - backend.backend - INFO - Saved quote to database: "It is not as important how we start, but how we finish." - Joyce Meyer
+2024-12-19 22:18:24,652 - data_management.data_management - DEBUG - ���������� ������ � ��: "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen." - Winston Churchill
+2024-12-19 22:18:24,653 - data_management.data_management - INFO - ������ ��������� � �� � ID: 858
+2024-12-19 22:18:24,653 - backend.backend - INFO - Saved quote to database: "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen." - Winston Churchill
+2024-12-19 22:18:24,653 - data_management.data_management - DEBUG - ���������� ������ � ��: "Weeds are flowers too, once you get to know them." - A.A. Milne
+2024-12-19 22:18:24,656 - data_management.data_management - INFO - ������ ��������� � �� � ID: 859
+2024-12-19 22:18:24,656 - backend.backend - INFO - Saved quote to database: "Weeds are flowers too, once you get to know them." - A.A. Milne
+2024-12-19 22:18:24,656 - data_management.data_management - DEBUG - ���������� ������ � ��: "It's not how much money you make, it's how much money you keep." - Robert Kiyosaki
+2024-12-19 22:18:24,658 - data_management.data_management - INFO - ������ ��������� � �� � ID: 860
+2024-12-19 22:18:24,659 - backend.backend - INFO - Saved quote to database: "It's not how much money you make, it's how much money you keep." - Robert Kiyosaki
+2024-12-19 22:18:24,659 - data_management.data_management - DEBUG - ���������� ������ � ��: "The more we value things, the less we value ourselves.  " - Bruce Lee
+2024-12-19 22:18:24,661 - data_management.data_management - INFO - ������ ��������� � �� � ID: 861
+2024-12-19 22:18:24,661 - backend.backend - INFO - Saved quote to database: "The more we value things, the less we value ourselves.  " - Bruce Lee
+2024-12-19 22:18:24,661 - data_management.data_management - DEBUG - ���������� ������ � ��: "Friendship takes time and energy if it's going to work." - Betty White
+2024-12-19 22:18:24,663 - data_management.data_management - INFO - ������ ��������� � �� � ID: 862
+2024-12-19 22:18:24,664 - backend.backend - INFO - Saved quote to database: "Friendship takes time and energy if it's going to work." - Betty White
+2024-12-19 22:18:24,664 - data_management.data_management - DEBUG - ���������� ������ � ��: "Conscience is a dog that does not stop us from passing but that we cannot prevent from barking." - Nicolas Chamfort
+2024-12-19 22:18:24,665 - data_management.data_management - INFO - ������ ��������� � �� � ID: 863
+2024-12-19 22:18:24,665 - backend.backend - INFO - Saved quote to database: "Conscience is a dog that does not stop us from passing but that we cannot prevent from barking." - Nicolas Chamfort
+2024-12-19 22:18:24,665 - data_management.data_management - DEBUG - ���������� ������ � ��: "I do not exist to impress the world. I exist to live my life in a way that will make me happy." - Richard Bach
+2024-12-19 22:18:24,667 - data_management.data_management - INFO - ������ ��������� � �� � ID: 864
+2024-12-19 22:18:24,667 - backend.backend - INFO - Saved quote to database: "I do not exist to impress the world. I exist to live my life in a way that will make me happy." - Richard Bach
+2024-12-19 22:18:24,667 - data_management.data_management - DEBUG - ���������� ������ � ��: "Keep your face always toward the sunshine -  shadows will fall behind you." - Walt Whitman
+2024-12-19 22:18:24,670 - data_management.data_management - INFO - ������ ��������� � �� � ID: 865
+2024-12-19 22:18:24,670 - backend.backend - INFO - Saved quote to database: "Keep your face always toward the sunshine -  shadows will fall behind you." - Walt Whitman
+2024-12-19 22:18:24,670 - data_management.data_management - DEBUG - ���������� ������ � ��: "No man becomes rich unless he enriches others." - Andrew Carnegie
+2024-12-19 22:18:24,672 - data_management.data_management - INFO - ������ ��������� � �� � ID: 866
+2024-12-19 22:18:24,672 - backend.backend - INFO - Saved quote to database: "No man becomes rich unless he enriches others." - Andrew Carnegie
+2024-12-19 22:18:24,672 - data_management.data_management - DEBUG - ���������� ������ � ��: "Zen insists that the whole trouble is just our failure to realize that there is no problem." - Bruce Lee
+2024-12-19 22:18:24,674 - data_management.data_management - INFO - ������ ��������� � �� � ID: 867
+2024-12-19 22:18:24,674 - backend.backend - INFO - Saved quote to database: "Zen insists that the whole trouble is just our failure to realize that there is no problem." - Bruce Lee
+2024-12-19 22:18:24,674 - data_management.data_management - DEBUG - ���������� ������ � ��: "No duty is more urgent than that of returning thanks." - James Allen
+2024-12-19 22:18:24,676 - data_management.data_management - INFO - ������ ��������� � �� � ID: 868
+2024-12-19 22:18:24,676 - backend.backend - INFO - Saved quote to database: "No duty is more urgent than that of returning thanks." - James Allen
+2024-12-19 22:18:24,676 - data_management.data_management - DEBUG - ���������� ������ � ��: "People inspire you, or they drain you. Pick them wisely." - Les Brown
+2024-12-19 22:18:24,677 - data_management.data_management - INFO - ������ ��������� � �� � ID: 869
+2024-12-19 22:18:24,677 - backend.backend - INFO - Saved quote to database: "People inspire you, or they drain you. Pick them wisely." - Les Brown
+2024-12-19 22:18:24,678 - data_management.data_management - DEBUG - ���������� ������ � ��: "I know of only one duty, and that is to love." - George Bernard Shaw
+2024-12-19 22:18:24,681 - data_management.data_management - INFO - ������ ��������� � �� � ID: 870
+2024-12-19 22:18:24,681 - backend.backend - INFO - Saved quote to database: "I know of only one duty, and that is to love." - George Bernard Shaw
+2024-12-19 22:18:24,681 - data_management.data_management - DEBUG - ���������� ������ � ��: "The purpose of life is the life of purpose." - Robin Sharma
+2024-12-19 22:18:24,683 - data_management.data_management - INFO - ������ ��������� � �� � ID: 871
+2024-12-19 22:18:24,683 - backend.backend - INFO - Saved quote to database: "The purpose of life is the life of purpose." - Robin Sharma
+2024-12-19 22:18:24,683 - data_management.data_management - DEBUG - ���������� ������ � ��: "Looking after my health today gives me a better hope for tomorrow. " - Anne Wilson Schaef
+2024-12-19 22:18:24,686 - data_management.data_management - INFO - ������ ��������� � �� � ID: 872
+2024-12-19 22:18:24,686 - backend.backend - INFO - Saved quote to database: "Looking after my health today gives me a better hope for tomorrow. " - Anne Wilson Schaef
+2024-12-19 22:18:24,686 - data_management.data_management - DEBUG - ���������� ������ � ��: "In all chaos there is a cosmos, in all disorder a secret order." - Carl Jung
+2024-12-19 22:18:24,688 - data_management.data_management - INFO - ������ ��������� � �� � ID: 873
+2024-12-19 22:18:24,689 - backend.backend - INFO - Saved quote to database: "In all chaos there is a cosmos, in all disorder a secret order." - Carl Jung
+2024-12-19 22:18:24,689 - data_management.data_management - DEBUG - ���������� ������ � ��: "Always do what is right. It will gratify half of mankind and astound the other." - Mark Twain
+2024-12-19 22:18:24,691 - data_management.data_management - INFO - ������ ��������� � �� � ID: 874
+2024-12-19 22:18:24,692 - backend.backend - INFO - Saved quote to database: "Always do what is right. It will gratify half of mankind and astound the other." - Mark Twain
+2024-12-19 22:18:24,692 - data_management.data_management - DEBUG - ���������� ������ � ��: "A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing." - George Bernard Shaw
+2024-12-19 22:18:24,694 - data_management.data_management - INFO - ������ ��������� � �� � ID: 875
+2024-12-19 22:18:24,694 - backend.backend - INFO - Saved quote to database: "A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing." - George Bernard Shaw
+2024-12-19 22:18:24,694 - data_management.data_management - DEBUG - ���������� ������ � ��: "Your time is limited, so don't waste it living someone elses. life." - Steve Jobs
+2024-12-19 22:18:24,696 - data_management.data_management - INFO - ������ ��������� � �� � ID: 876
+2024-12-19 22:18:24,696 - backend.backend - INFO - Saved quote to database: "Your time is limited, so don't waste it living someone elses. life." - Steve Jobs
+2024-12-19 22:18:24,696 - data_management.data_management - DEBUG - ���������� ������ � ��: "None are more hopelessly enslaved than those who falsely believe they are free." - Johann Wolfgang von Goethe
+2024-12-19 22:18:24,698 - data_management.data_management - INFO - ������ ��������� � �� � ID: 877
+2024-12-19 22:18:24,699 - backend.backend - INFO - Saved quote to database: "None are more hopelessly enslaved than those who falsely believe they are free." - Johann Wolfgang von Goethe
+2024-12-19 22:18:24,699 - data_management.data_management - DEBUG - ���������� ������ � ��: "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever." - Aristophanes
+2024-12-19 22:18:24,701 - data_management.data_management - INFO - ������ ��������� � �� � ID: 878
+2024-12-19 22:18:24,701 - backend.backend - INFO - Saved quote to database: "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever." - Aristophanes
+2024-12-19 22:18:24,701 - data_management.data_management - DEBUG - ���������� ������ � ��: "Every limit is a beginning as well as an ending." - George Eliot
+2024-12-19 22:18:24,703 - data_management.data_management - INFO - ������ ��������� � �� � ID: 879
+2024-12-19 22:18:24,703 - backend.backend - INFO - Saved quote to database: "Every limit is a beginning as well as an ending." - George Eliot
+2024-12-19 22:18:24,703 - data_management.data_management - DEBUG - ���������� ������ � ��: "The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon
+2024-12-19 22:18:24,705 - data_management.data_management - INFO - ������ ��������� � �� � ID: 880
+2024-12-19 22:18:24,705 - backend.backend - INFO - Saved quote to database: "The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon
+2024-12-19 22:18:24,705 - data_management.data_management - DEBUG - ���������� ������ � ��: "If you want to know what God thinks about money just look at the people He gives it to." - Alexander Pope
+2024-12-19 22:18:24,707 - data_management.data_management - INFO - ������ ��������� � �� � ID: 881
+2024-12-19 22:18:24,707 - backend.backend - INFO - Saved quote to database: "If you want to know what God thinks about money just look at the people He gives it to." - Alexander Pope
+2024-12-19 22:18:24,707 - data_management.data_management - DEBUG - ���������� ������ � ��: "Anything worth doing is worth doing slowly." - Mae West
+2024-12-19 22:18:24,708 - data_management.data_management - INFO - ������ ��������� � �� � ID: 882
+2024-12-19 22:18:24,709 - backend.backend - INFO - Saved quote to database: "Anything worth doing is worth doing slowly." - Mae West
+2024-12-19 22:18:24,709 - data_management.data_management - DEBUG - ���������� ������ � ��: "It is not how much we have, but how much we enjoy, that makes happiness." - Charles Spurgeon
+2024-12-19 22:18:24,711 - data_management.data_management - INFO - ������ ��������� � �� � ID: 883
+2024-12-19 22:18:24,711 - backend.backend - INFO - Saved quote to database: "It is not how much we have, but how much we enjoy, that makes happiness." - Charles Spurgeon
+2024-12-19 22:18:24,711 - data_management.data_management - DEBUG - ���������� ������ � ��: "The number one cause of failure is the fear of failure." - Steve Harvey
+2024-12-19 22:18:24,713 - data_management.data_management - INFO - ������ ��������� � �� � ID: 884
+2024-12-19 22:18:24,713 - backend.backend - INFO - Saved quote to database: "The number one cause of failure is the fear of failure." - Steve Harvey
+2024-12-19 22:18:24,713 - data_management.data_management - DEBUG - ���������� ������ � ��: "Your best life will not be found in comfort. It will be found in fighting for what you believe in." - Maxime Lagace
+2024-12-19 22:18:24,714 - data_management.data_management - INFO - ������ ��������� � �� � ID: 885
+2024-12-19 22:18:24,714 - backend.backend - INFO - Saved quote to database: "Your best life will not be found in comfort. It will be found in fighting for what you believe in." - Maxime Lagace
+2024-12-19 22:18:24,714 - data_management.data_management - DEBUG - ���������� ������ � ��: "Happiness depends on your mindset and attitude." - Roy T. Bennett
+2024-12-19 22:18:24,717 - data_management.data_management - INFO - ������ ��������� � �� � ID: 886
+2024-12-19 22:18:24,717 - backend.backend - INFO - Saved quote to database: "Happiness depends on your mindset and attitude." - Roy T. Bennett
+2024-12-19 22:18:24,717 - data_management.data_management - DEBUG - ���������� ������ � ��: "You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?" - Seneca
+2024-12-19 22:18:24,719 - data_management.data_management - INFO - ������ ��������� � �� � ID: 887
+2024-12-19 22:18:24,719 - backend.backend - INFO - Saved quote to database: "You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?" - Seneca
+2024-12-19 22:18:24,719 - data_management.data_management - DEBUG - ���������� ������ � ��: "Remember, today is the tomorrow you worried about yesterday." - Dale Carnegie
+2024-12-19 22:18:24,722 - data_management.data_management - INFO - ������ ��������� � �� � ID: 888
+2024-12-19 22:18:24,722 - backend.backend - INFO - Saved quote to database: "Remember, today is the tomorrow you worried about yesterday." - Dale Carnegie
+2024-12-19 22:18:24,722 - data_management.data_management - DEBUG - ���������� ������ � ��: "Knowledge is a treasure, but practice is the key to it." - Lao Tzu
+2024-12-19 22:18:24,724 - data_management.data_management - INFO - ������ ��������� � �� � ID: 889
+2024-12-19 22:18:24,724 - backend.backend - INFO - Saved quote to database: "Knowledge is a treasure, but practice is the key to it." - Lao Tzu
+2024-12-19 22:18:24,724 - data_management.data_management - DEBUG - ���������� ������ � ��: "The final mystery is oneself." - Oscar Wilde
+2024-12-19 22:18:24,726 - data_management.data_management - INFO - ������ ��������� � �� � ID: 890
+2024-12-19 22:18:24,726 - backend.backend - INFO - Saved quote to database: "The final mystery is oneself." - Oscar Wilde
+2024-12-19 22:18:24,726 - data_management.data_management - DEBUG - ���������� ������ � ��: "Failure is feedback. Learn from it and move on." - Jack Butcher
+2024-12-19 22:18:24,727 - data_management.data_management - INFO - ������ ��������� � �� � ID: 891
+2024-12-19 22:18:24,728 - backend.backend - INFO - Saved quote to database: "Failure is feedback. Learn from it and move on." - Jack Butcher
+2024-12-19 22:18:24,728 - data_management.data_management - DEBUG - ���������� ������ � ��: "Decide what your truth is. Then live it." - Kamal Ravikant
+2024-12-19 22:18:24,729 - data_management.data_management - INFO - ������ ��������� � �� � ID: 892
+2024-12-19 22:18:24,729 - backend.backend - INFO - Saved quote to database: "Decide what your truth is. Then live it." - Kamal Ravikant
+2024-12-19 22:18:24,729 - data_management.data_management - DEBUG - ���������� ������ � ��: "Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present." - George Bernard Shaw
+2024-12-19 22:18:24,731 - data_management.data_management - INFO - ������ ��������� � �� � ID: 893
+2024-12-19 22:18:24,731 - backend.backend - INFO - Saved quote to database: "Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present." - George Bernard Shaw
+2024-12-19 22:18:24,731 - data_management.data_management - DEBUG - ���������� ������ � ��: "Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you." - Jeffrey Gitomer
+2024-12-19 22:18:24,733 - data_management.data_management - INFO - ������ ��������� � �� � ID: 894
+2024-12-19 22:18:24,733 - backend.backend - INFO - Saved quote to database: "Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you." - Jeffrey Gitomer
+2024-12-19 22:18:24,733 - data_management.data_management - DEBUG - ���������� ������ � ��: "Each of us is a unique strand in the intricate web of life and here to make a contribution." - Deepak Chopra
+2024-12-19 22:18:24,734 - data_management.data_management - INFO - ������ ��������� � �� � ID: 895
+2024-12-19 22:18:24,734 - backend.backend - INFO - Saved quote to database: "Each of us is a unique strand in the intricate web of life and here to make a contribution." - Deepak Chopra
+2024-12-19 22:18:24,734 - data_management.data_management - DEBUG - ���������� ������ � ��: "Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. " - Orison Swett Marden
+2024-12-19 22:18:24,736 - data_management.data_management - INFO - ������ ��������� � �� � ID: 896
+2024-12-19 22:18:24,736 - backend.backend - INFO - Saved quote to database: "Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. " - Orison Swett Marden
+2024-12-19 22:18:24,736 - data_management.data_management - DEBUG - ���������� ������ � ��: "As mortals, we're ruled by conditions, not by ourselves." - Bodhidharma
+2024-12-19 22:18:24,738 - data_management.data_management - INFO - ������ ��������� � �� � ID: 897
+2024-12-19 22:18:24,738 - backend.backend - INFO - Saved quote to database: "As mortals, we're ruled by conditions, not by ourselves." - Bodhidharma
+2024-12-19 22:18:24,738 - data_management.data_management - DEBUG - ���������� ������ � ��: "Our happiness depends on the habit of mind we cultivate." - Norman Vincent Peale
+2024-12-19 22:18:24,741 - data_management.data_management - INFO - ������ ��������� � �� � ID: 898
+2024-12-19 22:18:24,741 - backend.backend - INFO - Saved quote to database: "Our happiness depends on the habit of mind we cultivate." - Norman Vincent Peale
+2024-12-19 22:18:24,741 - data_management.data_management - DEBUG - ���������� ������ � ��: "You can put lipstick on a pig. It's still a pig." - Barack Obama
+2024-12-19 22:18:24,742 - data_management.data_management - INFO - ������ ��������� � �� � ID: 899
+2024-12-19 22:18:24,742 - backend.backend - INFO - Saved quote to database: "You can put lipstick on a pig. It's still a pig." - Barack Obama
+2024-12-19 22:18:24,742 - data_management.data_management - DEBUG - ���������� ������ � ��: "To arrive at the simplest truth requires years of contemplation." - Isaac Newton
+2024-12-19 22:18:24,743 - data_management.data_management - INFO - ������ ��������� � �� � ID: 900
+2024-12-19 22:18:24,744 - backend.backend - INFO - Saved quote to database: "To arrive at the simplest truth requires years of contemplation." - Isaac Newton
+2024-12-19 22:18:24,744 - data_management.data_management - DEBUG - ���������� ������ � ��: "Nothing has any power over me other than that which I give it through my conscious thoughts." - Tony Robbins
+2024-12-19 22:18:24,746 - data_management.data_management - INFO - ������ ��������� � �� � ID: 901
+2024-12-19 22:18:24,746 - backend.backend - INFO - Saved quote to database: "Nothing has any power over me other than that which I give it through my conscious thoughts." - Tony Robbins
+2024-12-19 22:18:24,746 - data_management.data_management - DEBUG - ���������� ������ � ��: "Some of us learn from other people's mistakes and the rest of us have to be other people.  " - Zig Ziglar
+2024-12-19 22:18:24,747 - data_management.data_management - INFO - ������ ��������� � �� � ID: 902
+2024-12-19 22:18:24,747 - backend.backend - INFO - Saved quote to database: "Some of us learn from other people's mistakes and the rest of us have to be other people.  " - Zig Ziglar
+2024-12-19 22:18:24,747 - data_management.data_management - DEBUG - ���������� ������ � ��: "If you want something new, you have to stop doing something old." - Peter Drucker
+2024-12-19 22:18:24,749 - data_management.data_management - INFO - ������ ��������� � �� � ID: 903
+2024-12-19 22:18:24,749 - backend.backend - INFO - Saved quote to database: "If you want something new, you have to stop doing something old." - Peter Drucker
+2024-12-19 22:18:29,765 - data_management.data_management - DEBUG - ��������� ���� ����� �� ��
+2024-12-19 22:18:29,768 - backend.backend - INFO - User 418602387 received a random quote: "Anything worth doing is worth doing slowly." - Mae West
+2024-12-19 22:18:29,768 - tg_bot.tg_bot - INFO - User 418602387 requested a random quote.
+2024-12-19 22:18:32,168 - data_management.data_management - DEBUG - ��������� ���� ����� �� ��
+2024-12-19 22:18:32,171 - backend.backend - INFO - User 418602387 received a random quote: "A journey of a thousand miles must begin with a single step." - Lao Tzu
+2024-12-19 22:18:32,171 - tg_bot.tg_bot - INFO - User 418602387 requested a random quote.
+2024-12-19 22:18:37,678 - backend.backend - INFO - User 418602387 translated a quote: "A journey of a thousand miles must begin with a single step." - Lao Tzu -> "����������� � ������ ���� ������ ���������� � ������ ����." - ��� ���
+2024-12-19 22:18:37,678 - tg_bot.tg_bot - INFO - User 418602387 requested to translate a quote.
+2024-12-19 22:18:40,880 - backend.backend - INFO - User 418602387 added a quote to favorites: "A journey of a thousand miles must begin with a single step." - Lao Tzu
+2024-12-19 22:18:40,880 - tg_bot.tg_bot - INFO - User 418602387 saved a quote.
+2024-12-19 22:18:42,113 - data_management.data_management - DEBUG - ��������� ���� ����� �� ��
+2024-12-19 22:18:42,115 - backend.backend - INFO - User 418602387 received a random quote: "The outer conditions of a person's life will always be found to reflect their inner beliefs." - James Allen
+2024-12-19 22:18:42,116 - tg_bot.tg_bot - INFO - User 418602387 requested a random quote.
+2024-12-19 22:18:43,108 - backend.backend - INFO - User 418602387 added a quote to favorites: "The outer conditions of a person's life will always be found to reflect their inner beliefs." - James Allen
+2024-12-19 22:18:43,108 - tg_bot.tg_bot - INFO - User 418602387 saved a quote.
+2024-12-19 22:18:45,266 - tg_bot.tg_bot - INFO - User 418602387 requested their favorite quotes.
+2024-12-19 22:18:47,590 - data_management.data_management - DEBUG - ��������� ���� ����� �� ��
+2024-12-19 22:18:47,592 - backend.backend - INFO - User 418602387 received a random quote: "Only the educated are free." - Epictetus
+2024-12-19 22:18:47,592 - tg_bot.tg_bot - INFO - User 418602387 requested a random quote.
+2024-12-19 22:18:48,517 - backend.backend - INFO - User 418602387 added a quote to favorites: "Only the educated are free." - Epictetus
+2024-12-19 22:18:48,517 - tg_bot.tg_bot - INFO - User 418602387 saved a quote.
+2024-12-19 22:18:49,865 - tg_bot.tg_bot - INFO - User 418602387 requested their favorite quotes.
+2024-12-19 22:21:36,802 - data_management.data_management - DEBUG - Initializing DataManagement
+2024-12-19 22:21:36,815 - data_management.data_management - INFO - Creating database tables if they do not exist
+2024-12-19 22:21:36,816 - data_management.data_management - INFO - Fetching quotes from API
+2024-12-19 22:21:37,452 - data_management.data_management - DEBUG - Fetched 50 quotes from API
+2024-12-19 22:21:37,452 - data_management.data_management - DEBUG - Saving quote to DB: "Opportunities don't often come along. So, when they do, you have to grab them." - Audrey Hepburn
+2024-12-19 22:21:37,455 - data_management.data_management - INFO - Quote saved to DB with ID: 904
+2024-12-19 22:21:37,456 - backend.backend - INFO - Saved quote to database: "Opportunities don't often come along. So, when they do, you have to grab them." - Audrey Hepburn
+2024-12-19 22:21:37,456 - data_management.data_management - DEBUG - Saving quote to DB: "Plants grow weak without wind." - Maxime Lagace
+2024-12-19 22:21:37,459 - data_management.data_management - INFO - Quote saved to DB with ID: 905
+2024-12-19 22:21:37,459 - backend.backend - INFO - Saved quote to database: "Plants grow weak without wind." - Maxime Lagace
+2024-12-19 22:21:37,459 - data_management.data_management - DEBUG - Saving quote to DB: "In order to be walked over, you have to be lying down." - Celestine Chua
+2024-12-19 22:21:37,461 - data_management.data_management - INFO - Quote saved to DB with ID: 906
+2024-12-19 22:21:37,461 - backend.backend - INFO - Saved quote to database: "In order to be walked over, you have to be lying down." - Celestine Chua
+2024-12-19 22:21:37,461 - data_management.data_management - DEBUG - Saving quote to DB: "It matters not what someone is born, but what they grow to be." - Albus Dumbledore
+2024-12-19 22:21:37,463 - data_management.data_management - INFO - Quote saved to DB with ID: 907
+2024-12-19 22:21:37,463 - backend.backend - INFO - Saved quote to database: "It matters not what someone is born, but what they grow to be." - Albus Dumbledore
+2024-12-19 22:21:37,463 - data_management.data_management - DEBUG - Saving quote to DB: "Knowing your own darkness is the best method for dealing with the darknesses of other people." - Carl Jung
+2024-12-19 22:21:37,467 - data_management.data_management - INFO - Quote saved to DB with ID: 908
+2024-12-19 22:21:37,467 - backend.backend - INFO - Saved quote to database: "Knowing your own darkness is the best method for dealing with the darknesses of other people." - Carl Jung
+2024-12-19 22:21:37,467 - data_management.data_management - DEBUG - Saving quote to DB: "The greatest of all mistakes is to do nothing because you think you can only do a little.  " - Zig Ziglar
+2024-12-19 22:21:37,469 - data_management.data_management - INFO - Quote saved to DB with ID: 909
+2024-12-19 22:21:37,469 - backend.backend - INFO - Saved quote to database: "The greatest of all mistakes is to do nothing because you think you can only do a little.  " - Zig Ziglar
+2024-12-19 22:21:37,470 - data_management.data_management - DEBUG - Saving quote to DB: "The goal of an artist is to create the definitive work that cannot be surpassed." - George Bernard Shaw
+2024-12-19 22:21:37,472 - data_management.data_management - INFO - Quote saved to DB with ID: 910
+2024-12-19 22:21:37,472 - backend.backend - INFO - Saved quote to database: "The goal of an artist is to create the definitive work that cannot be surpassed." - George Bernard Shaw
+2024-12-19 22:21:37,472 - data_management.data_management - DEBUG - Saving quote to DB: "Not why the addiction but why the pain." - Gabor Mate
+2024-12-19 22:21:37,475 - data_management.data_management - INFO - Quote saved to DB with ID: 911
+2024-12-19 22:21:37,475 - backend.backend - INFO - Saved quote to database: "Not why the addiction but why the pain." - Gabor Mate
+2024-12-19 22:21:37,475 - data_management.data_management - DEBUG - Saving quote to DB: "Money poisons you when you've got it, and starves you when you haven't." - D. H. Lawrence
+2024-12-19 22:21:37,478 - data_management.data_management - INFO - Quote saved to DB with ID: 912
+2024-12-19 22:21:37,478 - backend.backend - INFO - Saved quote to database: "Money poisons you when you've got it, and starves you when you haven't." - D. H. Lawrence
+2024-12-19 22:21:37,478 - data_management.data_management - DEBUG - Saving quote to DB: "Setting goals is the first step in turning the invisible into the visible." - Tony Robbins
+2024-12-19 22:21:37,480 - data_management.data_management - INFO - Quote saved to DB with ID: 913
+2024-12-19 22:21:37,480 - backend.backend - INFO - Saved quote to database: "Setting goals is the first step in turning the invisible into the visible." - Tony Robbins
+2024-12-19 22:21:37,480 - data_management.data_management - DEBUG - Saving quote to DB: "The question isn't who is going to let me; it's who is going to stop me." - Ayn Rand
+2024-12-19 22:21:37,482 - data_management.data_management - INFO - Quote saved to DB with ID: 914
+2024-12-19 22:21:37,482 - backend.backend - INFO - Saved quote to database: "The question isn't who is going to let me; it's who is going to stop me." - Ayn Rand
+2024-12-19 22:21:37,482 - data_management.data_management - DEBUG - Saving quote to DB: "It is the power of thought that gives man power over nature." - Hans Christian Andersen
+2024-12-19 22:21:37,484 - data_management.data_management - INFO - Quote saved to DB with ID: 915
+2024-12-19 22:21:37,485 - backend.backend - INFO - Saved quote to database: "It is the power of thought that gives man power over nature." - Hans Christian Andersen
+2024-12-19 22:21:37,485 - data_management.data_management - DEBUG - Saving quote to DB: "Let not your mind run on what you lack as much as on what you have already." - Marcus Aurelius
+2024-12-19 22:21:37,488 - data_management.data_management - INFO - Quote saved to DB with ID: 916
+2024-12-19 22:21:37,488 - backend.backend - INFO - Saved quote to database: "Let not your mind run on what you lack as much as on what you have already." - Marcus Aurelius
+2024-12-19 22:21:37,488 - data_management.data_management - DEBUG - Saving quote to DB: "Art, like morality, consists of drawing the line somewhere." - Gilbert Chesterton
+2024-12-19 22:21:37,490 - data_management.data_management - INFO - Quote saved to DB with ID: 917
+2024-12-19 22:21:37,490 - backend.backend - INFO - Saved quote to database: "Art, like morality, consists of drawing the line somewhere." - Gilbert Chesterton
+2024-12-19 22:21:37,490 - data_management.data_management - DEBUG - Saving quote to DB: "Life and the simple beauty of it is too good to pass up." - Christopher McCandless
+2024-12-19 22:21:37,492 - data_management.data_management - INFO - Quote saved to DB with ID: 918
+2024-12-19 22:21:37,492 - backend.backend - INFO - Saved quote to database: "Life and the simple beauty of it is too good to pass up." - Christopher McCandless
+2024-12-19 22:21:37,493 - data_management.data_management - DEBUG - Saving quote to DB: "Your very silence shows you agree." - Euripides
+2024-12-19 22:21:37,495 - data_management.data_management - INFO - Quote saved to DB with ID: 919
+2024-12-19 22:21:37,495 - backend.backend - INFO - Saved quote to database: "Your very silence shows you agree." - Euripides
+2024-12-19 22:21:37,495 - data_management.data_management - DEBUG - Saving quote to DB: "It's possible in ways both large or small to make a difference in someone's life." - Yanni
+2024-12-19 22:21:37,497 - data_management.data_management - INFO - Quote saved to DB with ID: 920
+2024-12-19 22:21:37,497 - backend.backend - INFO - Saved quote to database: "It's possible in ways both large or small to make a difference in someone's life." - Yanni
+2024-12-19 22:21:37,497 - data_management.data_management - DEBUG - Saving quote to DB: "The foolish reject what they see, not what they think; the wise reject what they think, not what they see." - Huang Po
+2024-12-19 22:21:37,500 - data_management.data_management - INFO - Quote saved to DB with ID: 921
+2024-12-19 22:21:37,501 - backend.backend - INFO - Saved quote to database: "The foolish reject what they see, not what they think; the wise reject what they think, not what they see." - Huang Po
+2024-12-19 22:21:37,501 - data_management.data_management - DEBUG - Saving quote to DB: "Change is not a four letter word...but often your reaction to it is!" - Jeffrey Gitomer
+2024-12-19 22:21:37,503 - data_management.data_management - INFO - Quote saved to DB with ID: 922
+2024-12-19 22:21:37,503 - backend.backend - INFO - Saved quote to database: "Change is not a four letter word...but often your reaction to it is!" - Jeffrey Gitomer
+2024-12-19 22:21:37,503 - data_management.data_management - DEBUG - Saving quote to DB: "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." - Benjamin Franklin
+2024-12-19 22:21:37,505 - data_management.data_management - INFO - Quote saved to DB with ID: 923
+2024-12-19 22:21:37,505 - backend.backend - INFO - Saved quote to database: "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." - Benjamin Franklin
+2024-12-19 22:21:37,505 - data_management.data_management - DEBUG - Saving quote to DB: "I am not absentminded. It is the presence of mind that makes me unaware of everything else." - Gilbert Chesterton
+2024-12-19 22:21:37,507 - data_management.data_management - INFO - Quote saved to DB with ID: 924
+2024-12-19 22:21:37,507 - backend.backend - INFO - Saved quote to database: "I am not absentminded. It is the presence of mind that makes me unaware of everything else." - Gilbert Chesterton
+2024-12-19 22:21:37,508 - data_management.data_management - DEBUG - Saving quote to DB: "If you do not get the chills when you set your goal you're not setting big enough goals." - Bob Proctor
+2024-12-19 22:21:37,510 - data_management.data_management - INFO - Quote saved to DB with ID: 925
+2024-12-19 22:21:37,510 - backend.backend - INFO - Saved quote to database: "If you do not get the chills when you set your goal you're not setting big enough goals." - Bob Proctor
+2024-12-19 22:21:37,510 - data_management.data_management - DEBUG - Saving quote to DB: "To affect the quality of the day, that is the highest of arts." - Henry David Thoreau
+2024-12-19 22:21:37,512 - data_management.data_management - INFO - Quote saved to DB with ID: 926
+2024-12-19 22:21:37,512 - backend.backend - INFO - Saved quote to database: "To affect the quality of the day, that is the highest of arts." - Henry David Thoreau
+2024-12-19 22:21:37,512 - data_management.data_management - DEBUG - Saving quote to DB: "If you're really truthful with yourself, it's a wonderful guidance.  " - Charlie Chaplin
+2024-12-19 22:21:37,514 - data_management.data_management - INFO - Quote saved to DB with ID: 927
+2024-12-19 22:21:37,515 - backend.backend - INFO - Saved quote to database: "If you're really truthful with yourself, it's a wonderful guidance.  " - Charlie Chaplin
+2024-12-19 22:21:37,515 - data_management.data_management - DEBUG - Saving quote to DB: "Even when a friend does something you do not like, he continues to be your friend. " - Genghis Khan
+2024-12-19 22:21:37,517 - data_management.data_management - INFO - Quote saved to DB with ID: 928
+2024-12-19 22:21:37,517 - backend.backend - INFO - Saved quote to database: "Even when a friend does something you do not like, he continues to be your friend. " - Genghis Khan
+2024-12-19 22:21:37,517 - data_management.data_management - DEBUG - Saving quote to DB: "If you do not conquer self, you will be conquered by self." - Napoleon Hill
+2024-12-19 22:21:37,519 - data_management.data_management - INFO - Quote saved to DB with ID: 929
+2024-12-19 22:21:37,519 - backend.backend - INFO - Saved quote to database: "If you do not conquer self, you will be conquered by self." - Napoleon Hill
+2024-12-19 22:21:37,519 - data_management.data_management - DEBUG - Saving quote to DB: "If there's a definition of freedom, I think it's this: living life on your terms." - Kamal Ravikant
+2024-12-19 22:21:37,522 - data_management.data_management - INFO - Quote saved to DB with ID: 930
+2024-12-19 22:21:37,522 - backend.backend - INFO - Saved quote to database: "If there's a definition of freedom, I think it's this: living life on your terms." - Kamal Ravikant
+2024-12-19 22:21:37,522 - data_management.data_management - DEBUG - Saving quote to DB: "Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness." - Steve Maraboli
+2024-12-19 22:21:37,525 - data_management.data_management - INFO - Quote saved to DB with ID: 931
+2024-12-19 22:21:37,526 - backend.backend - INFO - Saved quote to database: "Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness." - Steve Maraboli
+2024-12-19 22:21:37,526 - data_management.data_management - DEBUG - Saving quote to DB: "A heart is not judged by how much you love, but by how much you are loved by others." - Judy Garland
+2024-12-19 22:21:37,528 - data_management.data_management - INFO - Quote saved to DB with ID: 932
+2024-12-19 22:21:37,528 - backend.backend - INFO - Saved quote to database: "A heart is not judged by how much you love, but by how much you are loved by others." - Judy Garland
+2024-12-19 22:21:37,528 - data_management.data_management - DEBUG - Saving quote to DB: "Life is a journey, not a destination." - Dan Millman
+2024-12-19 22:21:37,530 - data_management.data_management - INFO - Quote saved to DB with ID: 933
+2024-12-19 22:21:37,530 - backend.backend - INFO - Saved quote to database: "Life is a journey, not a destination." - Dan Millman
+2024-12-19 22:21:37,530 - data_management.data_management - DEBUG - Saving quote to DB: "We have no more right to consume happiness without producing it than to consume wealth without producing it." - George Bernard Shaw
+2024-12-19 22:21:37,532 - data_management.data_management - INFO - Quote saved to DB with ID: 934
+2024-12-19 22:21:37,533 - backend.backend - INFO - Saved quote to database: "We have no more right to consume happiness without producing it than to consume wealth without producing it." - George Bernard Shaw
+2024-12-19 22:21:37,533 - data_management.data_management - DEBUG - Saving quote to DB: "Happiness is when what you think, what you say, and what you do are in harmony." - Mahatma Gandhi
+2024-12-19 22:21:37,535 - data_management.data_management - INFO - Quote saved to DB with ID: 935
+2024-12-19 22:21:37,535 - backend.backend - INFO - Saved quote to database: "Happiness is when what you think, what you say, and what you do are in harmony." - Mahatma Gandhi
+2024-12-19 22:21:37,535 - data_management.data_management - DEBUG - Saving quote to DB: "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+2024-12-19 22:21:37,538 - data_management.data_management - INFO - Quote saved to DB with ID: 936
+2024-12-19 22:21:37,538 - backend.backend - INFO - Saved quote to database: "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+2024-12-19 22:21:37,538 - data_management.data_management - DEBUG - Saving quote to DB: "Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." - Maxime Lagace
+2024-12-19 22:21:37,540 - data_management.data_management - INFO - Quote saved to DB with ID: 937
+2024-12-19 22:21:37,540 - backend.backend - INFO - Saved quote to database: "Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." - Maxime Lagace
+2024-12-19 22:21:37,540 - data_management.data_management - DEBUG - Saving quote to DB: "Nothing is impossible. The word itself says 'I'm possible!'" - Audrey Hepburn
+2024-12-19 22:21:37,542 - data_management.data_management - INFO - Quote saved to DB with ID: 938
+2024-12-19 22:21:37,542 - backend.backend - INFO - Saved quote to database: "Nothing is impossible. The word itself says 'I'm possible!'" - Audrey Hepburn
+2024-12-19 22:21:37,542 - data_management.data_management - DEBUG - Saving quote to DB: "Throw me to the wolves and I will return leading the pack.  " - Seneca
+2024-12-19 22:21:37,545 - data_management.data_management - INFO - Quote saved to DB with ID: 939
+2024-12-19 22:21:37,545 - backend.backend - INFO - Saved quote to database: "Throw me to the wolves and I will return leading the pack.  " - Seneca
+2024-12-19 22:21:37,545 - data_management.data_management - DEBUG - Saving quote to DB: "Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. " - Miguel de Cervantes
+2024-12-19 22:21:37,547 - data_management.data_management - INFO - Quote saved to DB with ID: 940
+2024-12-19 22:21:37,547 - backend.backend - INFO - Saved quote to database: "Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. " - Miguel de Cervantes
+2024-12-19 22:21:37,547 - data_management.data_management - DEBUG - Saving quote to DB: "When you can't make them see the light, make them feel the heat." - Ronald Reagan
+2024-12-19 22:21:37,550 - data_management.data_management - INFO - Quote saved to DB with ID: 941
+2024-12-19 22:21:37,550 - backend.backend - INFO - Saved quote to database: "When you can't make them see the light, make them feel the heat." - Ronald Reagan
+2024-12-19 22:21:37,550 - data_management.data_management - DEBUG - Saving quote to DB: "Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end." - Roy T. Bennett
+2024-12-19 22:21:37,553 - data_management.data_management - INFO - Quote saved to DB with ID: 942
+2024-12-19 22:21:37,553 - backend.backend - INFO - Saved quote to database: "Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end." - Roy T. Bennett
+2024-12-19 22:21:37,553 - data_management.data_management - DEBUG - Saving quote to DB: "Be confident, not certain." - Eleanor Roosevelt
+2024-12-19 22:21:37,555 - data_management.data_management - INFO - Quote saved to DB with ID: 943
+2024-12-19 22:21:37,555 - backend.backend - INFO - Saved quote to database: "Be confident, not certain." - Eleanor Roosevelt
+2024-12-19 22:21:37,555 - data_management.data_management - DEBUG - Saving quote to DB: "A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." - Harry S. Truman
+2024-12-19 22:21:37,557 - data_management.data_management - INFO - Quote saved to DB with ID: 944
+2024-12-19 22:21:37,557 - backend.backend - INFO - Saved quote to database: "A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." - Harry S. Truman
+2024-12-19 22:21:37,557 - data_management.data_management - DEBUG - Saving quote to DB: "Once you choose hope, anything's possible." - Christopher Reeve
+2024-12-19 22:21:37,560 - data_management.data_management - INFO - Quote saved to DB with ID: 945
+2024-12-19 22:21:37,560 - backend.backend - INFO - Saved quote to database: "Once you choose hope, anything's possible." - Christopher Reeve
+2024-12-19 22:21:37,560 - data_management.data_management - DEBUG - Saving quote to DB: "Adventure is not outside man; it is within." - George Eliot
+2024-12-19 22:21:37,562 - data_management.data_management - INFO - Quote saved to DB with ID: 946
+2024-12-19 22:21:37,562 - backend.backend - INFO - Saved quote to database: "Adventure is not outside man; it is within." - George Eliot
+2024-12-19 22:21:37,562 - data_management.data_management - DEBUG - Saving quote to DB: "Acknowledging the good that you already have in your life is the foundation for all abundance." - Eckhart Tolle
+2024-12-19 22:21:37,564 - data_management.data_management - INFO - Quote saved to DB with ID: 947
+2024-12-19 22:21:37,565 - backend.backend - INFO - Saved quote to database: "Acknowledging the good that you already have in your life is the foundation for all abundance." - Eckhart Tolle
+2024-12-19 22:21:37,565 - data_management.data_management - DEBUG - Saving quote to DB: "Trust, like the soul, never returns once it is gone." - Publilius Syrus
+2024-12-19 22:21:37,567 - data_management.data_management - INFO - Quote saved to DB with ID: 948
+2024-12-19 22:21:37,567 - backend.backend - INFO - Saved quote to database: "Trust, like the soul, never returns once it is gone." - Publilius Syrus
+2024-12-19 22:21:37,567 - data_management.data_management - DEBUG - Saving quote to DB: "When reading, only read. When eating, only eat. When thinking, only think." - Seungsahn
+2024-12-19 22:21:37,569 - data_management.data_management - INFO - Quote saved to DB with ID: 949
+2024-12-19 22:21:37,569 - backend.backend - INFO - Saved quote to database: "When reading, only read. When eating, only eat. When thinking, only think." - Seungsahn
+2024-12-19 22:21:37,569 - data_management.data_management - DEBUG - Saving quote to DB: "The man who removes a mountain begins by carrying away small stones." - William Faulkner
+2024-12-19 22:21:37,572 - data_management.data_management - INFO - Quote saved to DB with ID: 950
+2024-12-19 22:21:37,573 - backend.backend - INFO - Saved quote to database: "The man who removes a mountain begins by carrying away small stones." - William Faulkner
+2024-12-19 22:21:37,573 - data_management.data_management - DEBUG - Saving quote to DB: "Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you." - Jeffrey Gitomer
+2024-12-19 22:21:37,575 - data_management.data_management - INFO - Quote saved to DB with ID: 951
+2024-12-19 22:21:37,575 - backend.backend - INFO - Saved quote to database: "Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you." - Jeffrey Gitomer
+2024-12-19 22:21:37,575 - data_management.data_management - DEBUG - Saving quote to DB: "What you seek is seeking you." - Rumi
+2024-12-19 22:21:37,577 - data_management.data_management - INFO - Quote saved to DB with ID: 952
+2024-12-19 22:21:37,577 - backend.backend - INFO - Saved quote to database: "What you seek is seeking you." - Rumi
+2024-12-19 22:21:37,577 - data_management.data_management - DEBUG - Saving quote to DB: "You don't earn loyalty in a day. You earn loyalty day-by-day." - Jeffrey Gitomer
+2024-12-19 22:21:37,580 - data_management.data_management - INFO - Quote saved to DB with ID: 953
+2024-12-19 22:21:37,580 - backend.backend - INFO - Saved quote to database: "You don't earn loyalty in a day. You earn loyalty day-by-day." - Jeffrey Gitomer
+2024-12-19 22:21:38,715 - data_management.data_management - DEBUG - Fetching all quotes from DB
+2024-12-19 22:21:38,719 - backend.backend - INFO - User 418602387 received a random quote: "Through discipline comes freedom." - Aristotle
+2024-12-19 22:21:38,719 - tg_bot.tg_bot - INFO - User 418602387 requested a random quote.
+2024-12-19 22:21:44,464 - backend.backend - INFO - User 418602387 translated a quote: "Through discipline comes freedom." - Aristotle -> "��������� ���������� �������� �������." - ����������
+2024-12-19 22:21:44,464 - tg_bot.tg_bot - INFO - User 418602387 requested to translate a quote.

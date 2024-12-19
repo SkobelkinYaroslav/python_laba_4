@@ -1,12 +1,16 @@
-from laba4.data_management import DataManagement
-from laba4.translator import QuoteTranslator
+import os
+from dotenv import load_dotenv
+from data_management import DataManagement
+from translator import QuoteTranslator
 from tg_bot import TgBot
 from backend import Backend
 import asyncio
+import logging
+import logging.config
+import json
 
-# TODO: УБЕРИ ХУЙНЮ ЭТУ
-API_TOKEN = '8098328078:AAHA6uAduMhR-4FSsWZJIY-awG7FKKL-fAM'
-
+# Загрузка переменных из .env
+load_dotenv()
 
 def main():
     db_config = {
@@ -16,6 +20,16 @@ def main():
         "host": "localhost",
         "port": 5432,
     }
+
+    config = None
+    with open('configs/logger_config.json', 'r') as file:
+        config = json.load(file)
+    logging.config.dictConfig(config)
+
+    # Получение токена из окружения
+    API_TOKEN = os.getenv("BOT_API_TOKEN")
+    if not API_TOKEN:
+        raise ValueError("BOT_API_TOKEN не найден в переменных окружения")
 
     translator = QuoteTranslator()
     data_manager = DataManagement(db_config)
