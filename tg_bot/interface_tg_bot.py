@@ -1,9 +1,5 @@
 from abc import ABC, abstractmethod
-import random
-import logging
-from data_management import DataManagement
 from models import Quote
-from translator import QuoteTranslator
 
 class AbstractBackend(ABC):
     @abstractmethod
